@@ -242,7 +242,7 @@ Asumptions: App is launched successfully and User is on the Main Screen
 
   b). User can delete any of the meteorite by tapping on the 'X' icon next to the name of the meteorite.
 
-  c). When no meteorite has been added to favorites, user is presented with an empty screen with an option to add favorites by tapping on the snack at the lower right conner of the screen or just hit back arrow to navigate to the main/homescreen.
+  c). When no meteorite has been added to favorites, user is presented with an empty screen with an option to add favorites by tapping on the floating action button at the lower right conner of the screen or just hit back arrow to navigate to the main/homescreen.
 
   3. Data Persistance after termination of the app.
    a) Make sure you have added your favorite meteorites to the favorites screen.
